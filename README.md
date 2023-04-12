@@ -1,2 +1,2 @@
 # PYTHON_WORKSHOP
-This folder inclues python workshop files.
+This folder includes python workshop files.
